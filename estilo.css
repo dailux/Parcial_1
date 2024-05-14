@@ -1,4 +1,6 @@
-header ul { background-color: azure;
+header ul {
+     background-color: azure;
+     
     display: flex;
     list-style:none;
     padding: 0;
@@ -10,6 +12,6 @@ header  li {
 header li:last-child{
     margin-right: 0;
 }
-html{background-color: rgb(28, 30, 36);
+html{background-color: rgb(12, 8, 59);
     color: rgb(255, 255, 255);
 }
